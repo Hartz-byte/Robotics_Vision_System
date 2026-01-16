@@ -1,0 +1,13 @@
+# Core AI & Vision
+ultralytics>=8.3.0
+opencv-python>=4.10.0
+numpy<2.0.0
+
+# Tracking Dependencies (Required for BoTSORT/ByteTrack)
+lapx>=0.5.5
+scipy>=1.10.0
+
+# Optimization & Utilities
+onnx>=1.16.0
+onnxruntime-gpu
+psutil
