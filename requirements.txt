@@ -1,3 +1,5 @@
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
 # Core AI & Vision
 ultralytics>=8.3.0
 opencv-python>=4.10.0
